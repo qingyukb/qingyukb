@@ -13,5 +13,5 @@ My![Visitor Count](https://profile-counter.glitch.me/qingyukb/count.svg)visitor
 * 📫 我要摸鱼我要摸鱼我要摸鱼啊啊啊啊啊啊啊啊啊啊啊……
 
 ![](https://github-readme-stats.vercel.app/api?username=qingyukb&show_icons=true&theme=dark&count_private=true)
-- ### Website
-**blog：** [https://blog.qinyua.com](https://blog.qinyua.com) 
+- ### 网址
+**blog：** [https://blog.qingyu.ink](https://blog.qingyu.ink) 
